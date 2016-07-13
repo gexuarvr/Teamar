@@ -10,8 +10,9 @@ namespace EasyAR
 {
     public class EasyImageTargetBehaviour : ImageTargetBehaviour
     {
+        public AudioClip[] clips;
 		public bool targetState = false;
-		public string targetName;
+		public string targetName;      
 
         protected override void Awake()
         {

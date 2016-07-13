@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 631679125e17db947a55cc3de2f4aab9
+timeCreated: 1468379817
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: curve1
+    100002: group1
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint12
+    100012: joint13
+    100014: joint14
+    100016: joint15
+    100018: joint16
+    100020: joint17
+    100022: joint18
+    100024: joint19
+    100026: joint2
+    100028: joint20
+    100030: joint21
+    100032: joint22
+    100034: joint23
+    100036: joint24
+    100038: joint25
+    100040: joint26
+    100042: joint27
+    100044: joint28
+    100046: joint29
+    100048: joint3
+    100050: joint30
+    100052: joint31
+    100054: joint32
+    100056: joint33
+    100058: joint34
+    100060: joint35
+    100062: joint35 1
+    100064: joint36
+    100066: joint36 1
+    100068: joint37
+    100070: joint37 1
+    100072: joint38
+    100074: joint38 1
+    100076: joint39
+    100078: joint39 1
+    100080: joint4
+    100082: joint40
+    100084: joint40 1
+    100086: joint41
+    100088: joint41 1
+    100090: joint42
+    100092: joint42 1
+    100094: joint43
+    100096: joint43 1
+    100098: joint44
+    100100: joint44 1
+    100102: joint45
+    100104: joint45 1
+    100106: joint46
+    100108: joint46 1
+    100110: joint47
+    100112: joint47 1
+    100114: joint48
+    100116: joint48 1
+    100118: joint49
+    100120: joint49 1
+    100122: joint5
+    100124: joint50
+    100126: joint50 1
+    100128: joint51
+    100130: joint51 1
+    100132: joint52
+    100134: joint52 1
+    100136: joint53
+    100138: joint53 1
+    100140: joint54
+    100142: joint54 1
+    100144: joint55
+    100146: joint55 1
+    100148: joint56
+    100150: joint57
+    100152: joint58
+    100154: joint58 1
+    100156: joint59
+    100158: joint59 1
+    100160: joint6
+    100162: joint60
+    100164: joint60 1
+    100166: joint61
+    100168: joint61 1
+    100170: joint62
+    100172: joint62 1
+    100174: joint63
+    100176: joint64
+    100178: joint65
+    100180: joint66
+    100182: joint67
+    100184: joint68
+    100186: joint69
+    100188: joint7
+    100190: joint70
+    100192: joint71
+    100194: joint72
+    100196: joint73
+    100198: joint74
+    100200: joint75
+    100202: joint76
+    100204: joint77
+    100206: joint78
+    100208: joint79
+    100210: joint8
+    100212: joint80
+    100214: joint81
+    100216: joint82
+    100218: joint83
+    100220: joint84
+    100222: joint9
+    100224: nurbsCircle1
+    100226: pCube396
+    100228: pCube397
+    100230: polySurface100
+    100232: polySurface101
+    100234: polySurface102
+    100236: polySurface103
+    100238: polySurface104
+    100240: polySurface105
+    100242: polySurface106
+    100244: polySurface107
+    100246: polySurface108
+    100248: polySurface109
+    100250: polySurface110
+    100252: polySurface111
+    100254: polySurface112
+    100256: polySurface19
+    100258: polySurface34
+    100260: polySurface35
+    100262: polySurface36
+    100264: polySurface37
+    100266: polySurface38
+    100268: polySurface39
+    100270: polySurface41
+    100272: polySurface42
+    100274: polySurface45
+    100276: polySurface46
+    100278: polySurface47
+    100280: polySurface48
+    100282: polySurface49
+    100284: polySurface50
+    100286: polySurface51
+    100288: polySurface53
+    100290: polySurface54
+    100292: polySurface57
+    100294: polySurface58
+    100296: polySurface59
+    100298: polySurface60
+    100300: polySurface61
+    100302: polySurface62
+    100304: polySurface67
+    100306: polySurface68
+    100308: polySurface69
+    100310: polySurface70
+    100312: polySurface71
+    100314: polySurface72
+    100316: polySurface73
+    100318: polySurface74
+    100320: polySurface75
+    100322: polySurface76
+    100324: polySurface77
+    100326: polySurface78
+    100328: polySurface79
+    100330: polySurface80
+    100332: polySurface81
+    100334: polySurface82
+    100336: polySurface83
+    100338: polySurface84
+    100340: polySurface85
+    100342: polySurface86
+    100344: polySurface87
+    100346: polySurface88
+    100348: polySurface89
+    100350: polySurface90
+    100352: polySurface95
+    100354: polySurface96
+    100356: polySurface97
+    100358: polySurface98
+    100360: polySurface99
+    100362: //RootNode
+    400000: curve1
+    400002: group1
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint12
+    400012: joint13
+    400014: joint14
+    400016: joint15
+    400018: joint16
+    400020: joint17
+    400022: joint18
+    400024: joint19
+    400026: joint2
+    400028: joint20
+    400030: joint21
+    400032: joint22
+    400034: joint23
+    400036: joint24
+    400038: joint25
+    400040: joint26
+    400042: joint27
+    400044: joint28
+    400046: joint29
+    400048: joint3
+    400050: joint30
+    400052: joint31
+    400054: joint32
+    400056: joint33
+    400058: joint34
+    400060: joint35
+    400062: joint35 1
+    400064: joint36
+    400066: joint36 1
+    400068: joint37
+    400070: joint37 1
+    400072: joint38
+    400074: joint38 1
+    400076: joint39
+    400078: joint39 1
+    400080: joint4
+    400082: joint40
+    400084: joint40 1
+    400086: joint41
+    400088: joint41 1
+    400090: joint42
+    400092: joint42 1
+    400094: joint43
+    400096: joint43 1
+    400098: joint44
+    400100: joint44 1
+    400102: joint45
+    400104: joint45 1
+    400106: joint46
+    400108: joint46 1
+    400110: joint47
+    400112: joint47 1
+    400114: joint48
+    400116: joint48 1
+    400118: joint49
+    400120: joint49 1
+    400122: joint5
+    400124: joint50
+    400126: joint50 1
+    400128: joint51
+    400130: joint51 1
+    400132: joint52
+    400134: joint52 1
+    400136: joint53
+    400138: joint53 1
+    400140: joint54
+    400142: joint54 1
+    400144: joint55
+    400146: joint55 1
+    400148: joint56
+    400150: joint57
+    400152: joint58
+    400154: joint58 1
+    400156: joint59
+    400158: joint59 1
+    400160: joint6
+    400162: joint60
+    400164: joint60 1
+    400166: joint61
+    400168: joint61 1
+    400170: joint62
+    400172: joint62 1
+    400174: joint63
+    400176: joint64
+    400178: joint65
+    400180: joint66
+    400182: joint67
+    400184: joint68
+    400186: joint69
+    400188: joint7
+    400190: joint70
+    400192: joint71
+    400194: joint72
+    400196: joint73
+    400198: joint74
+    400200: joint75
+    400202: joint76
+    400204: joint77
+    400206: joint78
+    400208: joint79
+    400210: joint8
+    400212: joint80
+    400214: joint81
+    400216: joint82
+    400218: joint83
+    400220: joint84
+    400222: joint9
+    400224: nurbsCircle1
+    400226: pCube396
+    400228: pCube397
+    400230: polySurface100
+    400232: polySurface101
+    400234: polySurface102
+    400236: polySurface103
+    400238: polySurface104
+    400240: polySurface105
+    400242: polySurface106
+    400244: polySurface107
+    400246: polySurface108
+    400248: polySurface109
+    400250: polySurface110
+    400252: polySurface111
+    400254: polySurface112
+    400256: polySurface19
+    400258: polySurface34
+    400260: polySurface35
+    400262: polySurface36
+    400264: polySurface37
+    400266: polySurface38
+    400268: polySurface39
+    400270: polySurface41
+    400272: polySurface42
+    400274: polySurface45
+    400276: polySurface46
+    400278: polySurface47
+    400280: polySurface48
+    400282: polySurface49
+    400284: polySurface50
+    400286: polySurface51
+    400288: polySurface53
+    400290: polySurface54
+    400292: polySurface57
+    400294: polySurface58
+    400296: polySurface59
+    400298: polySurface60
+    400300: polySurface61
+    400302: polySurface62
+    400304: polySurface67
+    400306: polySurface68
+    400308: polySurface69
+    400310: polySurface70
+    400312: polySurface71
+    400314: polySurface72
+    400316: polySurface73
+    400318: polySurface74
+    400320: polySurface75
+    400322: polySurface76
+    400324: polySurface77
+    400326: polySurface78
+    400328: polySurface79
+    400330: polySurface80
+    400332: polySurface81
+    400334: polySurface82
+    400336: polySurface83
+    400338: polySurface84
+    400340: polySurface85
+    400342: polySurface86
+    400344: polySurface87
+    400346: polySurface88
+    400348: polySurface89
+    400350: polySurface90
+    400352: polySurface95
+    400354: polySurface96
+    400356: polySurface97
+    400358: polySurface98
+    400360: polySurface99
+    400362: //RootNode
+    2300000: pCube396
+    2300002: pCube397
+    2300004: polySurface100
+    2300006: polySurface101
+    2300008: polySurface102
+    2300010: polySurface103
+    2300012: polySurface104
+    2300014: polySurface105
+    2300016: polySurface106
+    2300018: polySurface107
+    2300020: polySurface108
+    2300022: polySurface109
+    2300024: polySurface110
+    2300026: polySurface111
+    2300028: polySurface112
+    2300030: polySurface19
+    2300032: polySurface34
+    2300034: polySurface35
+    2300036: polySurface36
+    2300038: polySurface37
+    2300040: polySurface38
+    2300042: polySurface39
+    2300044: polySurface41
+    2300046: polySurface42
+    2300048: polySurface45
+    2300050: polySurface46
+    2300052: polySurface47
+    2300054: polySurface48
+    2300056: polySurface49
+    2300058: polySurface50
+    2300060: polySurface51
+    2300062: polySurface53
+    2300064: polySurface54
+    2300066: polySurface57
+    2300068: polySurface58
+    2300070: polySurface59
+    2300072: polySurface60
+    2300074: polySurface61
+    2300076: polySurface62
+    2300078: polySurface67
+    2300080: polySurface68
+    2300082: polySurface69
+    2300084: polySurface70
+    2300086: polySurface71
+    2300088: polySurface72
+    2300090: polySurface73
+    2300092: polySurface74
+    2300094: polySurface75
+    2300096: polySurface76
+    2300098: polySurface77
+    2300100: polySurface78
+    2300102: polySurface79
+    2300104: polySurface80
+    2300106: polySurface81
+    2300108: polySurface82
+    2300110: polySurface83
+    2300112: polySurface84
+    2300114: polySurface85
+    2300116: polySurface86
+    2300118: polySurface87
+    2300120: polySurface88
+    2300122: polySurface89
+    2300124: polySurface90
+    2300126: polySurface95
+    2300128: polySurface96
+    2300130: polySurface97
+    2300132: polySurface98
+    2300134: polySurface99
+    3300000: pCube396
+    3300002: pCube397
+    3300004: polySurface100
+    3300006: polySurface101
+    3300008: polySurface102
+    3300010: polySurface103
+    3300012: polySurface104
+    3300014: polySurface105
+    3300016: polySurface106
+    3300018: polySurface107
+    3300020: polySurface108
+    3300022: polySurface109
+    3300024: polySurface110
+    3300026: polySurface111
+    3300028: polySurface112
+    3300030: polySurface19
+    3300032: polySurface34
+    3300034: polySurface35
+    3300036: polySurface36
+    3300038: polySurface37
+    3300040: polySurface38
+    3300042: polySurface39
+    3300044: polySurface41
+    3300046: polySurface42
+    3300048: polySurface45
+    3300050: polySurface46
+    3300052: polySurface47
+    3300054: polySurface48
+    3300056: polySurface49
+    3300058: polySurface50
+    3300060: polySurface51
+    3300062: polySurface53
+    3300064: polySurface54
+    3300066: polySurface57
+    3300068: polySurface58
+    3300070: polySurface59
+    3300072: polySurface60
+    3300074: polySurface61
+    3300076: polySurface62
+    3300078: polySurface67
+    3300080: polySurface68
+    3300082: polySurface69
+    3300084: polySurface70
+    3300086: polySurface71
+    3300088: polySurface72
+    3300090: polySurface73
+    3300092: polySurface74
+    3300094: polySurface75
+    3300096: polySurface76
+    3300098: polySurface77
+    3300100: polySurface78
+    3300102: polySurface79
+    3300104: polySurface80
+    3300106: polySurface81
+    3300108: polySurface82
+    3300110: polySurface83
+    3300112: polySurface84
+    3300114: polySurface85
+    3300116: polySurface86
+    3300118: polySurface87
+    3300120: polySurface88
+    3300122: polySurface89
+    3300124: polySurface90
+    3300126: polySurface95
+    3300128: polySurface96
+    3300130: polySurface97
+    3300132: polySurface98
+    3300134: polySurface99
+    4300000: polySurface109
+    4300002: polySurface112
+    4300004: polySurface108
+    4300006: polySurface105
+    4300008: polySurface104
+    4300010: polySurface110
+    4300012: polySurface111
+    4300014: polySurface107
+    4300016: polySurface106
+    4300018: polySurface103
+    4300020: polySurface34
+    4300022: polySurface35
+    4300024: pCube396
+    4300026: polySurface49
+    4300028: pCube397
+    4300030: polySurface19
+    4300032: polySurface45
+    4300034: polySurface50
+    4300036: polySurface51
+    4300038: polySurface60
+    4300040: polySurface61
+    4300042: polySurface62
+    4300044: polySurface67
+    4300046: polySurface96
+    4300048: polySurface95
+    4300050: polySurface70
+    4300052: polySurface69
+    4300054: polySurface68
+    4300056: polySurface73
+    4300058: polySurface72
+    4300060: polySurface71
+    4300062: polySurface76
+    4300064: polySurface75
+    4300066: polySurface74
+    4300068: polySurface90
+    4300070: polySurface98
+    4300072: polySurface100
+    4300074: polySurface102
+    4300076: polySurface53
+    4300078: polySurface42
+    4300080: polySurface47
+    4300082: polySurface59
+    4300084: polySurface58
+    4300086: polySurface57
+    4300088: polySurface85
+    4300090: polySurface81
+    4300092: polySurface77
+    4300094: polySurface86
+    4300096: polySurface82
+    4300098: polySurface78
+    4300100: polySurface87
+    4300102: polySurface83
+    4300104: polySurface79
+    4300106: polySurface88
+    4300108: polySurface84
+    4300110: polySurface80
+    4300112: polySurface89
+    4300114: polySurface97
+    4300116: polySurface99
+    4300118: polySurface101
+    4300120: polySurface54
+    4300122: polySurface41
+    4300124: polySurface46
+    4300126: polySurface48
+    4300128: polySurface36
+    4300130: polySurface37
+    4300132: polySurface38
+    4300134: polySurface39
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/joint15
+        weight: 1
+      - path: group1/joint15/joint5
+        weight: 1
+      - path: group1/joint15/joint5/joint6
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8/joint9/polySurface36
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8/joint11
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8/joint11/joint12
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/joint8/joint11/polySurface37
+        weight: 1
+      - path: group1/joint15/joint5/joint6/joint7/polySurface38
+        weight: 1
+      - path: group1/joint15/joint5/joint13
+        weight: 1
+      - path: group1/joint15/joint5/joint13/joint14
+        weight: 1
+      - path: group1/joint15/joint5/joint13/polySurface39
+        weight: 1
+      - path: group1/joint15/joint16
+        weight: 1
+      - path: group1/joint15/joint16/joint17
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1/joint2
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1/joint2/joint3
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1/joint2/joint3/polySurface34
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1/joint2/polySurface35
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint1/pCube396
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69/joint70
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69/joint70/joint71
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69/joint70/polySurface109
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69/joint72
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69/joint72/joint73
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/joint69/joint72/polySurface112
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/joint68/polySurface108
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/joint65/joint66/joint67/polySurface105
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint64/polySurface104
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/polySurface110
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint83
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint83/joint84
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint83/polySurface111
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/joint79/polySurface107
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/joint76/joint77/joint78/polySurface106
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint18/joint74/joint75/polySurface103
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint31
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint31/joint32
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint31/joint32/joint33
+        weight: 1
+      - path: group1/joint15/joint16/joint17/joint31/joint32/polySurface19
+        weight: 1
+      - path: group1/joint15/joint16/joint17/polySurface49
+        weight: 1
+      - path: group1/joint15/joint16/joint17/polySurface49/pCube397
+        weight: 1
+      - path: group1/joint15/joint16/polySurface45
+        weight: 1
+      - path: group1/joint15/joint26
+        weight: 1
+      - path: group1/joint15/joint26/joint19
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36/joint37
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36/joint37/joint38/polySurface60
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36/joint37/polySurface61
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint36/polySurface62
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40/joint41
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40/joint41/joint42
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40/joint41/joint42/joint43
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40/joint41/joint42/polySurface67
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40/joint41/polySurface96
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint40/polySurface95
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44/joint45
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44/joint45/joint46
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44/joint45/joint46/joint47
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44/joint45/joint46/polySurface70
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44/joint45/polySurface69
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint44/polySurface68
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48/joint49
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48/joint49/joint50
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48/joint49/joint50/polySurface73
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48/joint49/polySurface72
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint48/polySurface71
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52/joint53
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52/joint53/joint54
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52/joint53/joint54/polySurface76
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52/joint53/polySurface75
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/joint35/joint52/polySurface74
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/joint62/joint56/polySurface90
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/joint61/polySurface98
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/joint60/polySurface100
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/joint58/joint59/polySurface102
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/joint22/joint57/polySurface53
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/joint21/polySurface42
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint20/polySurface47
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1/joint37
+          1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1/joint37
+          1/joint38 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1/joint37
+          1/joint38 1/joint39 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1/joint37
+          1/joint38 1/polySurface59
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1/joint37
+          1/polySurface58
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint36 1/polySurface57
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1/joint41
+          1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1/joint41
+          1/joint42 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1/joint41
+          1/joint42 1/joint43 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1/joint41
+          1/joint42 1/polySurface85
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1/joint41
+          1/polySurface81
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint40 1/polySurface77
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1/joint45
+          1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1/joint45
+          1/joint46 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1/joint45
+          1/joint46 1/joint47 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1/joint45
+          1/joint46 1/polySurface86
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1/joint45
+          1/polySurface82
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint44 1/polySurface78
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1/joint49
+          1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1/joint49
+          1/joint50 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1/joint49
+          1/joint50 1/joint51 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1/joint49
+          1/joint50 1/polySurface87
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1/joint49
+          1/polySurface83
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint48 1/polySurface79
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1/joint53
+          1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1/joint53
+          1/joint54 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1/joint53
+          1/joint54 1/joint55 1
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1/joint53
+          1/joint54 1/polySurface88
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1/joint53
+          1/polySurface84
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/joint35 1/joint52 1/polySurface80
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/joint62 1/joint34/polySurface89
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/joint61 1/polySurface97
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/joint60 1/polySurface99
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/joint58
+          1/joint59 1/polySurface101
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/joint25/joint63/polySurface54
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/joint24/polySurface41
+        weight: 1
+      - path: group1/joint15/joint26/joint19/joint23/polySurface46
+        weight: 1
+      - path: group1/joint15/joint26/joint19/polySurface48
+        weight: 1
+      - path: group1/joint15/joint26/joint27
+        weight: 1
+      - path: group1/joint15/joint26/joint27/joint28
+        weight: 1
+      - path: group1/joint15/joint26/joint27/polySurface50
+        weight: 1
+      - path: group1/joint15/joint26/joint29
+        weight: 1
+      - path: group1/joint15/joint26/joint29/joint30
+        weight: 1
+      - path: group1/joint15/joint26/joint29/polySurface51
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
