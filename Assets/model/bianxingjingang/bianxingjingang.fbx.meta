@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: bd8113d1413b694428764a667834526c
+timeCreated: 1468375423
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: curve1
+    100002: //RootNode
+    100004: group1
+    100006: group2
+    100008: joint1
+    100010: joint10
+    100012: joint11
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint21
+    100036: joint22
+    100038: joint23
+    100040: joint24
+    100042: joint25
+    100044: joint26
+    100046: joint27
+    100048: joint28
+    100050: joint29
+    100052: joint3
+    100054: joint30
+    100056: joint31
+    100058: joint32
+    100060: joint33
+    100062: joint34
+    100064: joint35
+    100066: joint35 1
+    100068: joint36
+    100070: joint36 1
+    100072: joint37
+    100074: joint37 1
+    100076: joint38
+    100078: joint38 1
+    100080: joint39
+    100082: joint39 1
+    100084: joint4
+    100086: joint40
+    100088: joint40 1
+    100090: joint41
+    100092: joint41 1
+    100094: joint42
+    100096: joint42 1
+    100098: joint43
+    100100: joint43 1
+    100102: joint44
+    100104: joint44 1
+    100106: joint45
+    100108: joint45 1
+    100110: joint46
+    100112: joint46 1
+    100114: joint47
+    100116: joint47 1
+    100118: joint48
+    100120: joint48 1
+    100122: joint49
+    100124: joint49 1
+    100126: joint5
+    100128: joint50
+    100130: joint50 1
+    100132: joint51
+    100134: joint51 1
+    100136: joint52
+    100138: joint52 1
+    100140: joint53
+    100142: joint53 1
+    100144: joint54
+    100146: joint54 1
+    100148: joint55
+    100150: joint55 1
+    100152: joint56
+    100154: joint57
+    100156: joint58
+    100158: joint58 1
+    100160: joint59
+    100162: joint59 1
+    100164: joint6
+    100166: joint60
+    100168: joint60 1
+    100170: joint61
+    100172: joint61 1
+    100174: joint62
+    100176: joint62 1
+    100178: joint63
+    100180: joint64
+    100182: joint65
+    100184: joint66
+    100186: joint67
+    100188: joint68
+    100190: joint69
+    100192: joint7
+    100194: joint70
+    100196: joint71
+    100198: joint72
+    100200: joint73
+    100202: joint74
+    100204: joint75
+    100206: joint76
+    100208: joint77
+    100210: joint78
+    100212: joint79
+    100214: joint8
+    100216: joint80
+    100218: joint81
+    100220: joint82
+    100222: joint83
+    100224: joint84
+    100226: joint9
+    100228: nurbsCircle1
+    100230: pCube396
+    100232: pCube397
+    100234: pCube398
+    100236: pCube399
+    100238: pCylinder105
+    100240: polySurface100
+    100242: polySurface101
+    100244: polySurface102
+    100246: polySurface103
+    100248: polySurface104
+    100250: polySurface105
+    100252: polySurface106
+    100254: polySurface107
+    100256: polySurface108
+    100258: polySurface109
+    100260: polySurface110
+    100262: polySurface111
+    100264: polySurface112
+    100266: polySurface19
+    100268: polySurface34
+    100270: polySurface35
+    100272: polySurface36
+    100274: polySurface37
+    100276: polySurface38
+    100278: polySurface39
+    100280: polySurface41
+    100282: polySurface42
+    100284: polySurface45
+    100286: polySurface46
+    100288: polySurface47
+    100290: polySurface48
+    100292: polySurface49
+    100294: polySurface50
+    100296: polySurface51
+    100298: polySurface53
+    100300: polySurface54
+    100302: polySurface57
+    100304: polySurface58
+    100306: polySurface59
+    100308: polySurface60
+    100310: polySurface61
+    100312: polySurface62
+    100314: polySurface67
+    100316: polySurface68
+    100318: polySurface69
+    100320: polySurface70
+    100322: polySurface71
+    100324: polySurface72
+    100326: polySurface73
+    100328: polySurface74
+    100330: polySurface75
+    100332: polySurface76
+    100334: polySurface77
+    100336: polySurface78
+    100338: polySurface79
+    100340: polySurface80
+    100342: polySurface81
+    100344: polySurface82
+    100346: polySurface83
+    100348: polySurface84
+    100350: polySurface85
+    100352: polySurface86
+    100354: polySurface87
+    100356: polySurface88
+    100358: polySurface89
+    100360: polySurface90
+    100362: polySurface95
+    100364: polySurface96
+    100366: polySurface97
+    100368: polySurface98
+    100370: polySurface99
+    100372: pSphere5
+    100374: transform1
+    100376: transform2
+    100378: transform3
+    100380: transform4
+    400000: curve1
+    400002: //RootNode
+    400004: group1
+    400006: group2
+    400008: joint1
+    400010: joint10
+    400012: joint11
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint21
+    400036: joint22
+    400038: joint23
+    400040: joint24
+    400042: joint25
+    400044: joint26
+    400046: joint27
+    400048: joint28
+    400050: joint29
+    400052: joint3
+    400054: joint30
+    400056: joint31
+    400058: joint32
+    400060: joint33
+    400062: joint34
+    400064: joint35
+    400066: joint35 1
+    400068: joint36
+    400070: joint36 1
+    400072: joint37
+    400074: joint37 1
+    400076: joint38
+    400078: joint38 1
+    400080: joint39
+    400082: joint39 1
+    400084: joint4
+    400086: joint40
+    400088: joint40 1
+    400090: joint41
+    400092: joint41 1
+    400094: joint42
+    400096: joint42 1
+    400098: joint43
+    400100: joint43 1
+    400102: joint44
+    400104: joint44 1
+    400106: joint45
+    400108: joint45 1
+    400110: joint46
+    400112: joint46 1
+    400114: joint47
+    400116: joint47 1
+    400118: joint48
+    400120: joint48 1
+    400122: joint49
+    400124: joint49 1
+    400126: joint5
+    400128: joint50
+    400130: joint50 1
+    400132: joint51
+    400134: joint51 1
+    400136: joint52
+    400138: joint52 1
+    400140: joint53
+    400142: joint53 1
+    400144: joint54
+    400146: joint54 1
+    400148: joint55
+    400150: joint55 1
+    400152: joint56
+    400154: joint57
+    400156: joint58
+    400158: joint58 1
+    400160: joint59
+    400162: joint59 1
+    400164: joint6
+    400166: joint60
+    400168: joint60 1
+    400170: joint61
+    400172: joint61 1
+    400174: joint62
+    400176: joint62 1
+    400178: joint63
+    400180: joint64
+    400182: joint65
+    400184: joint66
+    400186: joint67
+    400188: joint68
+    400190: joint69
+    400192: joint7
+    400194: joint70
+    400196: joint71
+    400198: joint72
+    400200: joint73
+    400202: joint74
+    400204: joint75
+    400206: joint76
+    400208: joint77
+    400210: joint78
+    400212: joint79
+    400214: joint8
+    400216: joint80
+    400218: joint81
+    400220: joint82
+    400222: joint83
+    400224: joint84
+    400226: joint9
+    400228: nurbsCircle1
+    400230: pCube396
+    400232: pCube397
+    400234: pCube398
+    400236: pCube399
+    400238: pCylinder105
+    400240: polySurface100
+    400242: polySurface101
+    400244: polySurface102
+    400246: polySurface103
+    400248: polySurface104
+    400250: polySurface105
+    400252: polySurface106
+    400254: polySurface107
+    400256: polySurface108
+    400258: polySurface109
+    400260: polySurface110
+    400262: polySurface111
+    400264: polySurface112
+    400266: polySurface19
+    400268: polySurface34
+    400270: polySurface35
+    400272: polySurface36
+    400274: polySurface37
+    400276: polySurface38
+    400278: polySurface39
+    400280: polySurface41
+    400282: polySurface42
+    400284: polySurface45
+    400286: polySurface46
+    400288: polySurface47
+    400290: polySurface48
+    400292: polySurface49
+    400294: polySurface50
+    400296: polySurface51
+    400298: polySurface53
+    400300: polySurface54
+    400302: polySurface57
+    400304: polySurface58
+    400306: polySurface59
+    400308: polySurface60
+    400310: polySurface61
+    400312: polySurface62
+    400314: polySurface67
+    400316: polySurface68
+    400318: polySurface69
+    400320: polySurface70
+    400322: polySurface71
+    400324: polySurface72
+    400326: polySurface73
+    400328: polySurface74
+    400330: polySurface75
+    400332: polySurface76
+    400334: polySurface77
+    400336: polySurface78
+    400338: polySurface79
+    400340: polySurface80
+    400342: polySurface81
+    400344: polySurface82
+    400346: polySurface83
+    400348: polySurface84
+    400350: polySurface85
+    400352: polySurface86
+    400354: polySurface87
+    400356: polySurface88
+    400358: polySurface89
+    400360: polySurface90
+    400362: polySurface95
+    400364: polySurface96
+    400366: polySurface97
+    400368: polySurface98
+    400370: polySurface99
+    400372: pSphere5
+    400374: transform1
+    400376: transform2
+    400378: transform3
+    400380: transform4
+    2300000: pCube396
+    2300002: pCube397
+    2300004: polySurface100
+    2300006: polySurface101
+    2300008: polySurface102
+    2300010: polySurface103
+    2300012: polySurface104
+    2300014: polySurface105
+    2300016: polySurface106
+    2300018: polySurface107
+    2300020: polySurface108
+    2300022: polySurface109
+    2300024: polySurface110
+    2300026: polySurface111
+    2300028: polySurface112
+    2300030: polySurface19
+    2300032: polySurface34
+    2300034: polySurface35
+    2300036: polySurface36
+    2300038: polySurface37
+    2300040: polySurface38
+    2300042: polySurface39
+    2300044: polySurface41
+    2300046: polySurface42
+    2300048: polySurface45
+    2300050: polySurface46
+    2300052: polySurface47
+    2300054: polySurface48
+    2300056: polySurface49
+    2300058: polySurface50
+    2300060: polySurface51
+    2300062: polySurface53
+    2300064: polySurface54
+    2300066: polySurface57
+    2300068: polySurface58
+    2300070: polySurface59
+    2300072: polySurface60
+    2300074: polySurface61
+    2300076: polySurface62
+    2300078: polySurface67
+    2300080: polySurface68
+    2300082: polySurface69
+    2300084: polySurface70
+    2300086: polySurface71
+    2300088: polySurface72
+    2300090: polySurface73
+    2300092: polySurface74
+    2300094: polySurface75
+    2300096: polySurface76
+    2300098: polySurface77
+    2300100: polySurface78
+    2300102: polySurface79
+    2300104: polySurface80
+    2300106: polySurface81
+    2300108: polySurface82
+    2300110: polySurface83
+    2300112: polySurface84
+    2300114: polySurface85
+    2300116: polySurface86
+    2300118: polySurface87
+    2300120: polySurface88
+    2300122: polySurface89
+    2300124: polySurface90
+    2300126: polySurface95
+    2300128: polySurface96
+    2300130: polySurface97
+    2300132: polySurface98
+    2300134: polySurface99
+    3300000: pCube396
+    3300002: pCube397
+    3300004: polySurface100
+    3300006: polySurface101
+    3300008: polySurface102
+    3300010: polySurface103
+    3300012: polySurface104
+    3300014: polySurface105
+    3300016: polySurface106
+    3300018: polySurface107
+    3300020: polySurface108
+    3300022: polySurface109
+    3300024: polySurface110
+    3300026: polySurface111
+    3300028: polySurface112
+    3300030: polySurface19
+    3300032: polySurface34
+    3300034: polySurface35
+    3300036: polySurface36
+    3300038: polySurface37
+    3300040: polySurface38
+    3300042: polySurface39
+    3300044: polySurface41
+    3300046: polySurface42
+    3300048: polySurface45
+    3300050: polySurface46
+    3300052: polySurface47
+    3300054: polySurface48
+    3300056: polySurface49
+    3300058: polySurface50
+    3300060: polySurface51
+    3300062: polySurface53
+    3300064: polySurface54
+    3300066: polySurface57
+    3300068: polySurface58
+    3300070: polySurface59
+    3300072: polySurface60
+    3300074: polySurface61
+    3300076: polySurface62
+    3300078: polySurface67
+    3300080: polySurface68
+    3300082: polySurface69
+    3300084: polySurface70
+    3300086: polySurface71
+    3300088: polySurface72
+    3300090: polySurface73
+    3300092: polySurface74
+    3300094: polySurface75
+    3300096: polySurface76
+    3300098: polySurface77
+    3300100: polySurface78
+    3300102: polySurface79
+    3300104: polySurface80
+    3300106: polySurface81
+    3300108: polySurface82
+    3300110: polySurface83
+    3300112: polySurface84
+    3300114: polySurface85
+    3300116: polySurface86
+    3300118: polySurface87
+    3300120: polySurface88
+    3300122: polySurface89
+    3300124: polySurface90
+    3300126: polySurface95
+    3300128: polySurface96
+    3300130: polySurface97
+    3300132: polySurface98
+    3300134: polySurface99
+    4300000: polySurface109
+    4300002: polySurface112
+    4300004: polySurface108
+    4300006: polySurface105
+    4300008: polySurface104
+    4300010: polySurface110
+    4300012: polySurface111
+    4300014: polySurface107
+    4300016: polySurface106
+    4300018: polySurface103
+    4300020: polySurface34
+    4300022: polySurface35
+    4300024: pCube396
+    4300026: polySurface49
+    4300028: pCube397
+    4300030: polySurface19
+    4300032: polySurface45
+    4300034: polySurface50
+    4300036: polySurface51
+    4300038: polySurface60
+    4300040: polySurface61
+    4300042: polySurface62
+    4300044: polySurface67
+    4300046: polySurface96
+    4300048: polySurface95
+    4300050: polySurface70
+    4300052: polySurface69
+    4300054: polySurface68
+    4300056: polySurface73
+    4300058: polySurface72
+    4300060: polySurface71
+    4300062: polySurface76
+    4300064: polySurface75
+    4300066: polySurface74
+    4300068: polySurface90
+    4300070: polySurface98
+    4300072: polySurface100
+    4300074: polySurface102
+    4300076: polySurface53
+    4300078: polySurface42
+    4300080: polySurface47
+    4300082: polySurface59
+    4300084: polySurface58
+    4300086: polySurface57
+    4300088: polySurface85
+    4300090: polySurface81
+    4300092: polySurface77
+    4300094: polySurface86
+    4300096: polySurface82
+    4300098: polySurface78
+    4300100: polySurface87
+    4300102: polySurface83
+    4300104: polySurface79
+    4300106: polySurface88
+    4300108: polySurface84
+    4300110: polySurface80
+    4300112: polySurface89
+    4300114: polySurface97
+    4300116: polySurface99
+    4300118: polySurface101
+    4300120: polySurface54
+    4300122: polySurface41
+    4300124: polySurface46
+    4300126: polySurface48
+    4300128: polySurface36
+    4300130: polySurface37
+    4300132: polySurface38
+    4300134: polySurface39
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

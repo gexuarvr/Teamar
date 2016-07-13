@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\js\loginSence\LoginMagicCard.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EasyAR\Scripts\EasyImageTargetBehaviour.cs">
     <Files>
+      <File FileName="Assets\EasyAR\Scripts\EasyImageTargetBehaviour.cs" Line="32" Column="13" />
       <File FileName="Assets\js\comment\CommentAction.cs" Line="1" Column="1" />
       <File FileName="Assets\js\long\lon.cs" Line="1" Column="1" />
-      <File FileName="Assets\js\loginSence\LoginMagicCard.cs" Line="20" Column="53" />
+      <File FileName="Assets\js\loginSence\LoginMagicCard.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
