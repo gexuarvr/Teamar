@@ -19,7 +19,7 @@
 *.Trashes
 
 # All platforms
-/Library
+Library
 Temp
 *.csproj
 *.pidb
