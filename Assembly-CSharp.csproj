@@ -38,10 +38,10 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -193,6 +193,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Particle Ribbon\Scripts\ReverseNormals.cs" />
+     <Compile Include="Assets\js\Eyu\Eyu.cs" />
      <Compile Include="Assets\js\SoundsManager.cs" />
      <Compile Include="Assets\js\apple\apple.cs" />
      <Compile Include="Assets\js\apple\appledonghua.cs" />
@@ -200,7 +201,9 @@
      <Compile Include="Assets\js\caomei\CaomeiAction.cs" />
      <Compile Include="Assets\js\caomei\Getscale.cs" />
      <Compile Include="Assets\js\comment\CommentAction.cs" />
+     <Compile Include="Assets\js\comment\ScalAndRoat.cs" />
      <Compile Include="Assets\js\comment\Source.cs" />
+     <Compile Include="Assets\js\comment\Tuzi.cs" />
      <Compile Include="Assets\js\comment\UIControl.cs" />
      <Compile Include="Assets\js\loginSence\LoginMagicCard.cs" />
      <Compile Include="Assets\js\long\lon.cs" />
@@ -215,6 +218,7 @@
      <Compile Include="Assets\js\naozhong\naozhong.cs" />
      <Compile Include="Assets\js\shayu\Shayu.cs" />
      <Compile Include="Assets\js\shizi\Shizi.cs" />
+     <Compile Include="Assets\js\yazi\Yazi.cs" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\NGUI\ReadMe - 3.8.2.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
@@ -260,37 +264,20 @@
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
- <Reference Include="UnityEngine.Advertisements">
-<<<<<<< HEAD
- <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
-=======
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
->>>>>>> a0e9e30b19c5182979827e509e9439f7af2202b8
- </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="EasyAR.Unity">
-<<<<<<< HEAD
- <HintPath>E:/github/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
-=======
  <HintPath>F:/GitHub/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
->>>>>>> a0e9e30b19c5182979827e509e9439f7af2202b8
  </Reference>
  <Reference Include="Mono.Cecil">
- <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
- <HintPath>E:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

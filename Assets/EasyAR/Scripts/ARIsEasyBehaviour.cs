@@ -55,6 +55,7 @@ namespace EasyAR
 
         void OnTargetLost(AugmenterBaseBehaviour augmenterBehaviour, ImageTargetBaseBehaviour targetBehaviour, Target target)
         {
+		
             Debug.Log("<Global Handler> Lost: " + target.Id);
         }
 
