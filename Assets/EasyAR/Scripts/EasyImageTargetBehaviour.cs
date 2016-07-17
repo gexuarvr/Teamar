@@ -8,65 +8,82 @@ using UnityEngine;
 
 namespace EasyAR
 {
-    public class EasyImageTargetBehaviour : ImageTargetBehaviour
-    {
-        public AudioClip[] clips;
+	public class EasyImageTargetBehaviour : ImageTargetBehaviour
+	{
+		public AudioClip[] clips;
 		public bool targetState = false;
-		public string targetName;      
+		public string targetName;
+		public GameObject gameObj;
+		private Vector3 gameObjPosition;
+		protected override void Awake()
+		{
+			base.Awake();
+			TargetFound += OnTargetFound;
+			TargetLost += OnTargetLost;
+			TargetLoad += OnTargetLoad;
+			TargetUnload += OnTargetUnload;
+		}
+		
+		protected override void Start()
+		{
+			base.Start();
+			HideObjects(transform);
+		}
+		
+		void HideObjects(Transform trans)
+		{
+			for (int i = 0; i < trans.childCount; ++i)
+				HideObjects(trans.GetChild(i));
+			if (transform != trans)
+				gameObject.SetActive(false);
+		}
+		
+		void ShowObjects(Transform trans)
+		{
+			for (int i = 0; i < trans.childCount; ++i)
+				ShowObjects(trans.GetChild(i));
+			if (transform != trans)
+				gameObject.SetActive(true);
+		}
+		
+		void OnTargetFound(ImageTargetBaseBehaviour behaviour)
+		{
+			GameObject []objectImageTargets = GameObject.FindGameObjectsWithTag ("imagetarget");
+			if(objectImageTargets != null) {
+				for (int i = 0; i<objectImageTargets.Length;i++){
+					Debug.Log(objectImageTargets[i].name+"______________________________________");
+					objectImageTargets[i].SetActive(false);
+				}
+			}
 
-        protected override void Awake()
-        {
-            base.Awake();
-            TargetFound += OnTargetFound;
-            TargetLost += OnTargetLost;
-            TargetLoad += OnTargetLoad;
-            TargetUnload += OnTargetUnload;
-        }
-
-        protected override void Start()
-        {
-            base.Start();
-            HideObjects(transform);
-        }
-
-        void HideObjects(Transform trans)
-        {
-            for (int i = 0; i < trans.childCount; ++i)
-                HideObjects(trans.GetChild(i));
-            if (transform != trans)
-                gameObject.SetActive(false);
-        }
-
-        void ShowObjects(Transform trans)
-        {
-            for (int i = 0; i < trans.childCount; ++i)
-                ShowObjects(trans.GetChild(i));
-            if (transform != trans)
-                gameObject.SetActive(true);
-        }
-
-        void OnTargetFound(ImageTargetBaseBehaviour behaviour)
-        {
-            ShowObjects(transform);
-            Debug.Log("Found: " + Target.Id);
-        }
-
-        void OnTargetLost(ImageTargetBaseBehaviour behaviour)
-        {
-            HideObjects(transform);
-            Debug.Log("Lost: " + Target.Id);
-        }
-
-        void OnTargetLoad(ImageTargetBaseBehaviour behaviour, ImageTrackerBaseBehaviour tracker, bool status)
-        {
+			ShowObjects(transform);
+			if (gameObj != null) {
+				gameObjPosition = gameObj.transform.position;//记录对象位置
+			}
+			Debug.Log("Found: " + Target.Id);
+		}
+		
+		void OnTargetLost(ImageTargetBaseBehaviour behaviour)
+		{
+			
+			HideObjects(transform);
+			if (gameObj != null) {
+				gameObject.SetActive (true);
+				gameObject.transform.position = gameObjPosition;
+			}
+			Debug.Log("Lost: " + Target.Id);
+		}
+		
+		void OnTargetLoad(ImageTargetBaseBehaviour behaviour, ImageTrackerBaseBehaviour tracker, bool status)
+		{
 			targetName = Target.Name;
 			targetState = status;
-            Debug.Log("Load target (" + status + "): " + Target.Id + " (" + Target.Name + ") " + " -> " + tracker);
-        }
-
-        void OnTargetUnload(ImageTargetBaseBehaviour behaviour, ImageTrackerBaseBehaviour tracker, bool status)
-        {
-            Debug.Log("Unload target (" + status + "): " + Target.Id + " (" + Target.Name + ") " + " -> " + tracker);
-        }
-    }
+			Debug.Log("Load target (" + status + "): " + Target.Id + " (" + Target.Name + ") " + " -> " + tracker);
+		}
+		
+		void OnTargetUnload(ImageTargetBaseBehaviour behaviour, ImageTrackerBaseBehaviour tracker, bool status)
+		{
+			Debug.Log("Unload target (" + status + "): " + Target.Id + " (" + Target.Name + ") " + " -> " + tracker);
+		}
+	}
 }

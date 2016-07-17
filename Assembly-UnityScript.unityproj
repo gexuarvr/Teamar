@@ -107,7 +107,7 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="EasyAR.Unity">
- <HintPath>F:/GitHub/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+ <HintPath>F:/myteamar/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

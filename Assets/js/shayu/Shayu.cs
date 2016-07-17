@@ -46,12 +46,11 @@ public class Shayu : MonoBehaviour {
 		}
 	}
 
-	void OnMouseEnter(){
+	void OnMouseDown(){
 		
 		SetState ++;
 		if (SetState == 3) {
 			SetState = 0;
 		}
-		Debug.Log (SetState + "dddd" );
 	}
 }
