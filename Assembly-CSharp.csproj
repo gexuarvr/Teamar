@@ -45,7 +45,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Banma.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ARBuilder.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ARIsEasyBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\AugmenterBehaviour.cs" />
@@ -198,6 +197,7 @@
      <Compile Include="Assets\js\SoundsManager.cs" />
      <Compile Include="Assets\js\apple\apple.cs" />
      <Compile Include="Assets\js\apple\appledonghua.cs" />
+     <Compile Include="Assets\js\banma\Banma.cs" />
      <Compile Include="Assets\js\caomei\CaomeiAction.cs" />
      <Compile Include="Assets\js\caomei\Getscale.cs" />
      <Compile Include="Assets\js\comment\CommentAction.cs" />
@@ -215,6 +215,7 @@
      <Compile Include="Assets\js\mogu\Rotate.cs" />
      <Compile Include="Assets\js\mogu\ScaleAndRotate.cs" />
      <Compile Include="Assets\js\mogu\SelfRotate.cs" />
+     <Compile Include="Assets\js\naozhong\naozhong.cs" />
      <Compile Include="Assets\js\shayu\Shayu.cs" />
      <Compile Include="Assets\js\shizi\Shizi.cs" />
      <Compile Include="Assets\js\yazi\Yazi.cs" />
