@@ -261,7 +261,11 @@
      <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
  <Reference Include="UnityEngine.Advertisements">
+<<<<<<< HEAD
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+=======
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+>>>>>>> a0e9e30b19c5182979827e509e9439f7af2202b8
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -272,8 +276,15 @@
  <Reference Include="UnityEngine.Analytics">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
  <Reference Include="EasyAR.Unity">
+<<<<<<< HEAD
  <HintPath>E:/github/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+=======
+ <HintPath>F:/GitHub/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+>>>>>>> a0e9e30b19c5182979827e509e9439f7af2202b8
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

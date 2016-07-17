@@ -174,11 +174,16 @@
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
+<<<<<<< HEAD
  <Reference Include="Assembly-UnityScript">
  <HintPath>E:/github/Teamar/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+=======
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+>>>>>>> a0e9e30b19c5182979827e509e9439f7af2202b8
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -198,11 +203,21 @@
  <Reference Include="UnityEngine.Analytics">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
  <Reference Include="EasyAR.Unity">
+<<<<<<< HEAD
  <HintPath>E:/github/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
  </Reference>
  <Reference Include="EasyAR.Unity.Editor">
  <HintPath>E:/github/Teamar/Assets/EasyAR/Scripts/Editor/EasyAR.Unity.Editor.dll</HintPath>
+=======
+ <HintPath>F:/GitHub/Teamar/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="EasyAR.Unity.Editor">
+ <HintPath>F:/GitHub/Teamar/Assets/EasyAR/Scripts/Editor/EasyAR.Unity.Editor.dll</HintPath>
+>>>>>>> a0e9e30b19c5182979827e509e9439f7af2202b8
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
